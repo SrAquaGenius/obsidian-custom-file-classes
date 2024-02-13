@@ -1,0 +1,11 @@
+{
+	"id": "custom-classes-navbar",
+	"name": "Custom Obsidian File Classes",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "SrAquaGenius",
+	"authorUrl": "https://github.com/SrAquaGenius",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
